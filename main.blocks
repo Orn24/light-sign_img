@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="UN_;swl^*7tU7K]-1E=R">myImage</variable></variables><block type="pxt-on-start" id="C`R2aZ}*n#GzGbdH]q|r" x="20" y="20"/><block type="device_forever" id="g=+UmLNeAb+9B^8H.**[" x="225" y="20"><statement name="HANDLER"><block type="device_scroll_image" id="0b/Ae1BE5Mgw8HD{b,M8"><value name="sprite"><block type="device_build_big_image" id="_Eql6M7Y|n*$n$dg}kIS"><field name="LEDS">`
+        # # # # # # . # . # 
+        # . # . . # . # . # 
+        # # # # # # . # . # 
+        # . . # . . . # . # 
+        # . . # # # . # # #
+        `</field></block></value><value name="frameoffset"><shadow type="math_number" id="jID:xyL]~_7M0P8yC*+r"><field name="NUM">1</field></shadow></value><value name="delay"><shadow type="math_number" id=")U{#O-oe=y:=BFiQizU)"><field name="NUM">200</field></shadow></value><next><block type="device_pause" id="6a8Us7WW{r@%?JGy4r.x"><value name="pause"><shadow type="timePicker" id="-Q]=r;!rPFSd$(?r7C(d"><field name="ms">2000</field></shadow></value><next><block type="device_scroll_image" id="7Xi-:y_-5-.?^/IY}Gr#"><value name="sprite"><block type="builtin_image" id="I1H63iD:V;11P-!w2Rc;"><field name="i">IconNames.Heart</field></block></value><value name="frameoffset"><shadow type="math_number" id="Y{P,z=Hrw^716oN5JaK@"><field name="NUM">3</field></shadow></value><value name="delay"><shadow type="math_number" id="1|ROKW+u{_a.H%,4tz);"><field name="NUM">200</field></shadow></value><next><block type="device_pause" id="/3x?|1so%3J_9]8K~~l3"><value name="pause"><shadow type="timePicker" id="qQBk3dl{Dc{jg+m{h$4{"><field name="ms">2000</field></shadow></value><next><block type="device_scroll_image" id="eW02Z_!c(p!oK{PE`xO$"><value name="sprite"><block type="device_build_big_image" id="o.]bS8Rba-WnF@L|*)h`"><field name="LEDS">`
+        # . # . # # # . # . 
+        # . # . # . # . # . 
+        # # # . # . # . # . 
+        . # . . # . # . . . 
+        . # . . # # # . # .
+        `</field></block></value><value name="frameoffset"><shadow type="math_number" id="xyMAVLdVUq3@T#DA0Jws"><field name="NUM">2</field></shadow></value><value name="delay"><shadow type="math_number" id="MeoVIB.Dc![{:4Qz=9P1"><field name="NUM">200</field></shadow></value><next><block type="device_pause" id="V^b#J-jAg;hka-qoJHNU"><value name="pause"><shadow type="timePicker" id=".#J;gwh2n[P;dE?[kj)a"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
